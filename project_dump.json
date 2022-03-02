@@ -445,7 +445,7 @@
     "model": "admin.logentry",
     "pk": 16,
     "fields": {
-        "action_time": "2022-03-02T12:42:59.213Z",
+        "action_time": "2022-03-02T12:43:59.213Z",
         "user": [
             "emilian"
         ],
