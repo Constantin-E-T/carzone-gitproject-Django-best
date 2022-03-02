@@ -27,7 +27,7 @@ SECRET_KEY = '934nw3r62@!m0^ksgw3#31tntglnr%td+-_b89xpu2@q2zqv=d'
 DEBUG = False
 
 # ALLOWED_HOSTS = ['floating-badlands-41165.herokuapp.com', 'carzoneapp.co', 'www.carzoneapp.co']
-ALLOWED_HOSTS = ['127.0.0.1']
+ALLOWED_HOSTS = ['ancient-lake-62563.herokuapp.com']
 
 # LOGIN_REDIRECT_URL = 'dashboard'
 
