@@ -1,0 +1,498 @@
+[
+{
+    "model": "cars.car",
+    "pk": 1,
+    "fields": {
+        "car_title": "2017 Ferrari 488 GTB",
+        "state": "MO",
+        "city": "Telford",
+        "color": "Blue",
+        "model": "488 GTB",
+        "year": 2017,
+        "condition": "Second-Hand",
+        "price": 40000,
+        "description": "<p>The&nbsp;<strong>Ferrari 488</strong>&nbsp;(Type F142M) is a&nbsp;<a href=\"https://en.wikipedia.org/wiki/Rear_mid-engine,_rear-wheel_drive_layout\" title=\"Rear mid-engine, rear-wheel drive layout\">mid-engine</a>&nbsp;<a href=\"https://en.wikipedia.org/wiki/Sports_car\" title=\"Sports car\">sports car</a>&nbsp;produced by the Italian automobile manufacturer&nbsp;<a href=\"https://en.wikipedia.org/wiki/Ferrari\" title=\"Ferrari\">Ferrari</a>. The car replaced the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Ferrari_458\" title=\"Ferrari 458\">458</a>, being the first mid-engine Ferrari to use a turbocharged V8 since the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Ferrari_F40\" title=\"Ferrari F40\">F40</a>.</p>\r\n\r\n<p>The car is powered by a 3.9-litre&nbsp;<a href=\"https://en.wikipedia.org/wiki/Twin-turbocharged\" title=\"Twin-turbocharged\">twin-turbocharged</a>&nbsp;<a href=\"https://en.wikipedia.org/wiki/V8_engine\" title=\"V8 engine\">V8 engine</a>, smaller in displacement but generating a higher power output than the 458&#39;s&nbsp;<a href=\"https://en.wikipedia.org/wiki/Naturally_aspirated_engine\" title=\"Naturally aspirated engine\">naturally aspirated engine</a>. The 488 GTB was named &quot;The Supercar of the Year 2015&quot; by car magazine&nbsp;<em><a href=\"https://en.wikipedia.org/wiki/Top_Gear_(magazine)\" title=\"Top Gear (magazine)\">Top Gear</a></em>, as well as becoming&nbsp;<em><a href=\"https://en.wikipedia.org/wiki/Motor_Trend\" title=\"Motor Trend\">Motor Trend</a></em>&#39;s 2017 &quot;Best Driver&#39;s Car&quot;.<a href=\"https://en.wikipedia.org/wiki/Ferrari_488#cite_note-7\">[7]</a>&nbsp;<a href=\"https://en.wikipedia.org/wiki/Jeremy_Clarkson\" title=\"Jeremy Clarkson\">Jeremy Clarkson</a>&nbsp;announced the 488 Pista as his 2019 Supercar of the Year.<a href=\"https://en.wikipedia.org/wiki/Ferrari_488#cite_note-8\">[8]</a>&nbsp;The 488 was succeeded by the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Ferrari_F8_Tributo\" title=\"Ferrari F8 Tributo\">F8 Tributo</a>&nbsp;in February 2019.</p>",
+        "car_photo": "photos/2022/03/02/1902536891.jpg",
+        "car_photo_1": "photos/2022/03/02/1902536917.jpg",
+        "car_photo_2": "photos/2022/03/02/1902537043.jpg",
+        "car_photo_3": "photos/2022/03/02/1902537077.jpg",
+        "car_photo_4": "photos/2022/03/02/1902537082.jpg",
+        "features": "Audio Interface,Airbags,Seat Heating,ParkAssist,Power Steering",
+        "body_style": "Sport",
+        "engine": "3.4L Mid-Engine V6",
+        "transmission": "Automatic",
+        "interior": "Gray",
+        "miles": 70000,
+        "doors": "2",
+        "passengers": 2,
+        "vin_no": "JHDJSK767686JHKJ",
+        "milage": 10000,
+        "fuel_type": "Petrol",
+        "no_of_owners": "2",
+        "is_featured": false,
+        "created_date": "2022-03-02T07:17:59Z"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 2,
+    "fields": {
+        "car_title": "2017 Ford Edge",
+        "state": "CA",
+        "city": "Telford",
+        "color": "Blue",
+        "model": "Edge",
+        "year": 2017,
+        "condition": "Second-Hand",
+        "price": 43000,
+        "description": "<p>The&nbsp;<strong>Ford Edge</strong>&nbsp;is a range of&nbsp;<a href=\"https://en.wikipedia.org/wiki/Crossover_(automobile)\" title=\"Crossover (automobile)\">crossover SUVs</a>&nbsp;manufactured by the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Ford_Motor_Company\" title=\"Ford Motor Company\">Ford Motor Company</a>. Introduced for the 2007 model year, the Edge is the first&nbsp;<a href=\"https://en.wikipedia.org/wiki/Mid-size_CUV\" title=\"Mid-size CUV\">mid-size CUV</a>&nbsp;marketed by Ford in North America; the model line is currently in its second generation. Deriving its name from a trim package of the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Ford_Ranger_(Americas)\" title=\"Ford Ranger (Americas)\">Ford Ranger</a>, the Ford Edge is positioned between the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Ford_Escape\" title=\"Ford Escape\">Ford Escape</a>&nbsp;and the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Ford_Explorer\" title=\"Ford Explorer\">Ford Explorer</a>&nbsp;within the Ford product line.</p>\r\n\r\n<p>Sharing its underpinnings with the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Ford_Fusion_(Americas)\" title=\"Ford Fusion (Americas)\">Ford Fusion sedan</a>, Ford has also produced the model line as the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Lincoln_MKX\" title=\"Lincoln MKX\">Lincoln MKX</a>&nbsp;(since 2019, the Lincoln Nautilus); the first generation was also produced as the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Mazda_CX-9\" title=\"Mazda CX-9\">Mazda CX-9</a>. The second generation is also marketed by&nbsp;<a href=\"https://en.wikipedia.org/wiki/Ford_of_Europe\" title=\"Ford of Europe\">Ford of Europe</a>, positioned between the Kuga (Escape) and the Explorer PHEV.</p>\r\n\r\n<p>All production of the Ford Edge is sourced from&nbsp;<a href=\"https://en.wikipedia.org/wiki/Ford_Motor_Company_of_Canada\" title=\"Ford Motor Company of Canada\">Ford of Canada</a>&nbsp;at&nbsp;<a href=\"https://en.wikipedia.org/wiki/Oakville_Assembly\" title=\"Oakville Assembly\">Oakville Assembly</a>&nbsp;(<a href=\"https://en.wikipedia.org/wiki/Oakville,_Ontario\" title=\"Oakville, Ontario\">Oakville, Ontario</a>) alongside the Nautilus.</p>",
+        "car_photo": "photos/2022/03/02/1901478607.jpg",
+        "car_photo_1": "photos/2022/03/02/1901478618.jpg",
+        "car_photo_2": "photos/2022/03/02/1901478646.jpg",
+        "car_photo_3": "photos/2022/03/02/1901478672.jpg",
+        "car_photo_4": "photos/2022/03/02/1901478687.jpg",
+        "features": "Cruise Control,Audio Interface,Airbags,ParkAssist,Power Steering,Direct Fuel Injection",
+        "body_style": "SUV",
+        "engine": "2.4L Engine",
+        "transmission": "Automatic",
+        "interior": "Red",
+        "miles": 3000,
+        "doors": "5",
+        "passengers": 5,
+        "vin_no": "HKJHKJSH676576JHJK",
+        "milage": 3900,
+        "fuel_type": "Disel",
+        "no_of_owners": "4",
+        "is_featured": false,
+        "created_date": "2022-03-02T12:37:34Z"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 3,
+    "fields": {
+        "car_title": "2017 Ford F-250 Super Duty",
+        "state": "AR",
+        "city": "Suceava",
+        "color": "Yellow",
+        "model": "F-250 Super Duty",
+        "year": 2017,
+        "condition": "Second-Hand",
+        "price": 50000,
+        "description": "<p>For the 1958&ndash;1981 Ford V8 engine family, see&nbsp;<a href=\"https://en.wikipedia.org/wiki/Ford_Super_Duty_engine\" title=\"Ford Super Duty engine\">Ford Super Duty engine</a>. For the medium-duty Ford (F-650/F-750), see&nbsp;<a href=\"https://en.wikipedia.org/wiki/Ford_F-Series_(medium_duty_truck)\" title=\"Ford F-Series (medium duty truck)\">Ford F-Series (medium duty truck)</a>.</p>\r\n\r\n<p><br />\r\nThe Super Duty trucks use a distinct chassis from the lighter&nbsp;<a href=\"https://en.wikipedia.org/wiki/F-150\" title=\"F-150\">F-150</a>, with heavier-duty chassis and suspension components to allow for higher payload and towing capacities; additionally, the product line continued the use of&nbsp;<a href=\"https://en.wikipedia.org/wiki/Ford_Power_Stroke_engine\" title=\"Ford Power Stroke engine\">Ford PowerStroke</a>&nbsp;diesel engines. With a&nbsp;<a href=\"https://en.wikipedia.org/wiki/Gross_vehicle_weight_rating\" title=\"Gross vehicle weight rating\">GVWR</a>&nbsp;over 8,500&nbsp;lb (3,900&nbsp;kg), Super Duty pickups are&nbsp;<a href=\"https://en.wikipedia.org/wiki/Truck_classification\" title=\"Truck classification\">class 2 and 3</a>&nbsp;trucks, while chassis cab trucks are class 4 and class 5. The F-Series Super Duty has been used as the base chassis of the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Ford_Excursion\" title=\"Ford Excursion\">Ford Excursion</a>&nbsp;full-sized SUV.The&nbsp;<strong>Ford Super Duty</strong>&nbsp;(short for F-Series Super Duty) is a series of trucks manufactured by the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Ford_Motor_Company\" title=\"Ford Motor Company\">Ford Motor Company</a>. Introduced in 1998 for the 1999 model year (the 1998 model year was skipped), the F-Series Super Duty trucks marked the addition of a heavy-duty pickup to the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Ford_F-Series\" title=\"Ford F-Series\">Ford F-Series</a>&nbsp;range with the new versions of the F-250, F-350, and F-450 trucks, while the previous 1987&ndash;1997 F-Super Duty&nbsp;<a href=\"https://en.wikipedia.org/wiki/Chassis_cab\" title=\"Chassis cab\">chassis cabs</a>&nbsp;were replaced by the F-450 chassis cab and F-550 Super Duty.</p>",
+        "car_photo": "photos/2022/03/02/1894300894.jpg",
+        "car_photo_1": "photos/2022/03/02/1894300905.jpg",
+        "car_photo_2": "photos/2022/03/02/1894300920.jpg",
+        "car_photo_3": "photos/2022/03/02/1900155012.jpg",
+        "car_photo_4": "photos/2022/03/02/1900155133.jpg",
+        "features": "Airbags,Air Conditioning,Seat Heating,Alarm System,Auto Start/Stop,Wind Deflector",
+        "body_style": "SUV",
+        "engine": "3.4L Mid-Engine V6",
+        "transmission": "Manual",
+        "interior": "Red",
+        "miles": 43000,
+        "doors": "5",
+        "passengers": 5,
+        "vin_no": "JKH87868BJHHJKN",
+        "milage": 3222,
+        "fuel_type": "Disel",
+        "no_of_owners": "2",
+        "is_featured": true,
+        "created_date": "2022-03-02T12:40:47Z"
+    }
+},
+{
+    "model": "pages.team",
+    "pk": 1,
+    "fields": {
+        "first_name": "Emilian",
+        "last_name": "Constantin",
+        "designation": "Web Developer",
+        "photo": "photos/2022/03/02/avatar-1.jpg",
+        "facebook_link": "https://facebook.com",
+        "twitter_link": "https://tweeter.com",
+        "google_plus_link": "https://google.com",
+        "created_date": "2022-03-02T12:45:32.473Z"
+    }
+},
+{
+    "model": "pages.team",
+    "pk": 2,
+    "fields": {
+        "first_name": "Diana",
+        "last_name": "Andreia",
+        "designation": "Manager",
+        "photo": "photos/2022/03/02/avatar-9.jpg",
+        "facebook_link": "https://facebook.com",
+        "twitter_link": "https://tweeter.com",
+        "google_plus_link": "https://google.com",
+        "created_date": "2022-03-02T12:46:10.582Z"
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$320000$qcPa5SvsNHGwtJZ3qlvVhs$x1Udv5HjMGgMn8eXvs/ZMwBykmizL+bffyaPeoWefg4=",
+        "last_login": "2022-03-02T12:37:13.218Z",
+        "is_superuser": true,
+        "username": "emilian",
+        "first_name": "Emilian",
+        "last_name": "Constantin",
+        "email": "emiliantivlica@yahoo.com",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2022-03-02T06:09:38Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$320000$zVtUXjAYGnAZ1E8XIzxi4d$CjHRF4DEcvisV8R/eebtXb6ax1iHBc0GTCY51WLIJgs=",
+        "last_login": "2022-03-02T11:57:08.879Z",
+        "is_superuser": false,
+        "username": "dianathebest",
+        "first_name": "diana",
+        "last_name": "andreia",
+        "email": "diana.tivlica@yahoo.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2022-03-02T11:57:08.782Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "v2s1xaqhepgdi1pzb5gvf9wdc6bial7k",
+    "fields": {
+        "session_data": ".eJxVjEEOwiAQRe_C2pAOhRFcuvcMZGBAqgaS0q6Md7dNutDte-__t_C0LsWvPc1-YnERIE6_LFB8proLflC9NxlbXeYpyD2Rh-3y1ji9rkf7d1Col22dSSNxREc66eEMBNaOThlGZL0hVKycSnGw1rjAJo_BZQBEIgzagfh8AdwvN38:1nPOED:oApXPsWFfmYV_vGCvHDmgCVLhd3yl_ZnxiTjOUCy4vE",
+        "expire_date": "2022-03-16T12:37:13.219Z"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 1,
+    "fields": {
+        "action_time": "2022-03-02T06:29:30.537Z",
+        "user": [
+            "emilian"
+        ],
+        "content_type": [
+            "sites",
+            "site"
+        ],
+        "object_id": "2",
+        "object_repr": "localhost:8000",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 2,
+    "fields": {
+        "action_time": "2022-03-02T06:30:28.268Z",
+        "user": [
+            "emilian"
+        ],
+        "content_type": [
+            "socialaccount",
+            "socialapp"
+        ],
+        "object_id": "1",
+        "object_repr": "Facebook login",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 3,
+    "fields": {
+        "action_time": "2022-03-02T06:30:57.381Z",
+        "user": [
+            "emilian"
+        ],
+        "content_type": [
+            "sites",
+            "site"
+        ],
+        "object_id": "1",
+        "object_repr": "example.com",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 4,
+    "fields": {
+        "action_time": "2022-03-02T06:31:04.693Z",
+        "user": [
+            "emilian"
+        ],
+        "content_type": [
+            "sites",
+            "site"
+        ],
+        "object_id": "2",
+        "object_repr": "localhost:8000",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 5,
+    "fields": {
+        "action_time": "2022-03-02T06:31:26.292Z",
+        "user": [
+            "emilian"
+        ],
+        "content_type": [
+            "socialaccount",
+            "socialapp"
+        ],
+        "object_id": "1",
+        "object_repr": "Facebook login",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 6,
+    "fields": {
+        "action_time": "2022-03-02T07:18:02.463Z",
+        "user": [
+            "emilian"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "1",
+        "object_repr": "2017 Ferrari 488 GTB",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 7,
+    "fields": {
+        "action_time": "2022-03-02T08:32:52.475Z",
+        "user": [
+            "emilian"
+        ],
+        "content_type": [
+            "auth",
+            "user"
+        ],
+        "object_id": "1",
+        "object_repr": "emilian",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"First name\", \"Last name\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 8,
+    "fields": {
+        "action_time": "2022-03-02T11:20:46.603Z",
+        "user": [
+            "emilian"
+        ],
+        "content_type": [
+            "contacts",
+            "contact"
+        ],
+        "object_id": "1",
+        "object_repr": "emiliantivlica@yahoo.com",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 9,
+    "fields": {
+        "action_time": "2022-03-02T11:21:54.226Z",
+        "user": [
+            "emilian"
+        ],
+        "content_type": [
+            "contacts",
+            "contact"
+        ],
+        "object_id": "2",
+        "object_repr": "emiliantivlica@yahoo.com",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 10,
+    "fields": {
+        "action_time": "2022-03-02T11:25:27.307Z",
+        "user": [
+            "emilian"
+        ],
+        "content_type": [
+            "contacts",
+            "contact"
+        ],
+        "object_id": "3",
+        "object_repr": "emiliantivlica@yahoo.com",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 11,
+    "fields": {
+        "action_time": "2022-03-02T11:35:34.704Z",
+        "user": [
+            "emilian"
+        ],
+        "content_type": [
+            "contacts",
+            "contact"
+        ],
+        "object_id": "4",
+        "object_repr": "emiliantivlica@yahoo.com",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 12,
+    "fields": {
+        "action_time": "2022-03-02T11:49:32.788Z",
+        "user": [
+            "emilian"
+        ],
+        "content_type": [
+            "contacts",
+            "contact"
+        ],
+        "object_id": "5",
+        "object_repr": "emiliantivlica@yahoo.com",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 13,
+    "fields": {
+        "action_time": "2022-03-02T12:37:19.848Z",
+        "user": [
+            "emilian"
+        ],
+        "content_type": [
+            "contacts",
+            "contact"
+        ],
+        "object_id": "7",
+        "object_repr": "diana.tivlica@yahoo.com",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 14,
+    "fields": {
+        "action_time": "2022-03-02T12:37:19.851Z",
+        "user": [
+            "emilian"
+        ],
+        "content_type": [
+            "contacts",
+            "contact"
+        ],
+        "object_id": "6",
+        "object_repr": "emiliantivlica@yahoo.com",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 15,
+    "fields": {
+        "action_time": "2022-03-02T12:40:40.760Z",
+        "user": [
+            "emilian"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "2",
+        "object_repr": "2017 Ford Edge",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 16,
+    "fields": {
+        "action_time": "2022-03-02T12:43:59.213Z",
+        "user": [
+            "emilian"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "3",
+        "object_repr": "2017 Ford F-250 Super Duty",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 17,
+    "fields": {
+        "action_time": "2022-03-02T12:45:32.475Z",
+        "user": [
+            "emilian"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "1",
+        "object_repr": "Emilian",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 18,
+    "fields": {
+        "action_time": "2022-03-02T12:46:10.584Z",
+        "user": [
+            "emilian"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "2",
+        "object_repr": "Diana",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+}
+]
