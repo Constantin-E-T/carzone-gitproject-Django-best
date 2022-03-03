@@ -27,8 +27,9 @@ SECRET_KEY = '934nw3r62@!m0^ksgw3#31tntglnr%td+-_b89xpu2@q2zqv=d'
 DEBUG = True
 
 # ALLOWED_HOSTS = ['floating-badlands-41165.herokuapp.com', 'carzoneapp.co', 'www.carzoneapp.co']
-ALLOWED_HOSTS = ['ancient-lake-62563.herokuapp.com']
 
+ALLOWED_HOSTS = ['ancient-lake-62563.herokuapp.com']
+# ALLOWED_HOSTS = ['127.0.0.1']
 # LOGIN_REDIRECT_URL = 'dashboard'
 
 
@@ -157,7 +158,14 @@ MESSAGE_TAGS = {
     messages.ERROR: 'danger',
 }
 
-# SITE_ID = 1
+# ### Static and media file stores to AWS
+# DEFAULT_FILE_STORAGE = 'storages.backends.s3boto3.S3Boto3Storage'
+
+# AWS_S3_SESSION_PROFILE = ''
+
+# AWS_S3_ACCESS_KEY_ID = ''
+
+# AWS_S3_SECRET_ACCESS_KEY = ''
 
 
 # Email sending
@@ -170,3 +178,16 @@ EMAIL_USE_TLS = True
 
 # Whitenoise settings
 STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
+
+
+# ### Static and media file stores to AWS
+
+DEFAULT_FILE_STORAGE = 'storages.backends.s3boto3.S3Boto3Storage'
+
+AWS_S3_ACCESS_KEY_ID = 'AKIATWRVLQTLGNKHTKKL'
+
+AWS_S3_SECRET_ACCESS_KEY = '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'
+
+AWS_STORAGE_BUCKET_NAME = 'mycatphoto'
+
+AWS_QUERYSTRING_AUTH = False
