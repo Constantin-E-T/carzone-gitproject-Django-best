@@ -48,7 +48,6 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'ckeditor',
     'django.contrib.humanize',
-    'storages'
     # 'django.contrib.sites',
     # 'allauth',
     # 'allauth.account',
@@ -185,14 +184,10 @@ STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
 
 DEFAULT_FILE_STORAGE = 'storages.backends.s3boto3.S3Boto3Storage'
 
-AWS_S3_ACCESS_KEY_ID = 'AKIATWRVLQTLELBUDN4L'
+AWS_S3_ACCESS_KEY_ID = 'AKIATWRVLQTLDHU5ZWH2'
 
-AWS_S3_SECRET_ACCESS_KEY = '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'
+AWS_S3_SECRET_ACCESS_KEY = 'acQzCpl53wFDZiNVyFKnjWkgVHZlQ1h7DVik3mQV+eOtAh'
 
 AWS_STORAGE_BUCKET_NAME = 'carzone-aws'
-
-AWS_S3_FILE_OVERWRITE = True
-
-AWS_DEFAULT_ACL = None
 
 AWS_QUERYSTRING_AUTH = False
