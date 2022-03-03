@@ -182,12 +182,12 @@ STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
 
 # ### Static and media file stores to AWS
 
-DEFAULT_FILE_STORAGE = 'storages.backends.s3boto3.S3Boto3Storage'
+# DEFAULT_FILE_STORAGE = 'storages.backends.s3boto3.S3Boto3Storage'
 
-AWS_ACCESS_KEY_ID = 'AKIATWRVLQTLKAFENNTS'
+# AWS_ACCESS_KEY_ID = 'AKIATWRVLQTLKAFENNTS'
 
-AWS_SECRET_ACCESS_KEY = 'jfnvznabgVuvOKyPLH3HpzMaHGXD07UUR6E0VrUO+eOtAh'
+# AWS_SECRET_ACCESS_KEY = 'jfnvznabgVuvOKyPLH3HpzMaHGXD07UUR6E0VrUO+eOtAh'
 
-AWS_STORAGE_BUCKET_NAME = 'cazonenewupdate'
+# AWS_STORAGE_BUCKET_NAME = 'cazonenewupdate'
 
-AWS_QUERYSTRING_AUTH = False
+# AWS_QUERYSTRING_AUTH = False
